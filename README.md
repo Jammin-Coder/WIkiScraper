@@ -10,3 +10,4 @@ a time period of atleast 10 minutes.
 `python3 WikiScraper.py`  
 then:  
 `Enter something >> <search-term>` This is just looking up a search term on Wikipedia. 
+The program then tries to parse the infobox of the page and display the contents neatly.  
